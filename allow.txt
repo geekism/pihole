@@ -1,0 +1,18 @@
+#level lock
+bridge.level.co
+level.co
+api.level.co
+app.level.co
+device-api.level.co
+levelos.com
+smartlife.tuyaus.com
+a.tuyaus.com
+px1.tuyaus.com
+
+#3d printer
+api.bambulab.com
+us.mqtt.bambulab.com
+public-cdn.bambulab.com
+cdn1.bambulab.com
+e.bambulab.com
+makerworld.bblmw.com
