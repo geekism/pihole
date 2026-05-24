@@ -6,3 +6,9 @@ us-dev.ezvizlife.com
 us-auth.ezvizlife.com
 # regex to catch random subdomains for ezviz
 (^|\.)ezvizlife\.com$
+(^|\.)ezviz\.com$
+(^|\.)iusopen\.ezviz\.com$
+
+(\.|^)ezvizlife\.com$
+(\.|^)ezviz\.com$
+(\.|^)iusopen\.ezviz\.com$
