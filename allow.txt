@@ -16,3 +16,7 @@ public-cdn.bambulab.com
 cdn1.bambulab.com
 e.bambulab.com
 makerworld.bblmw.com
+
+# harvest right 
+harvestright.com
+*.harvestright.com
