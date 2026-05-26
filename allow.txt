@@ -20,4 +20,4 @@ makerworld.bblmw.com
 # harvest right 
 harvestright.com
 (\.|^)harvestright\.com$
-(^|.\)harvesteight\.com$
+(^|\.)harvestright\.com$
