@@ -1,4 +1,8 @@
 #level lock
+auth.level.co
+home.level.co
+api-us.level.co
+firmware.level.co
 bridge.level.co
 level.co
 api.level.co
@@ -8,6 +12,8 @@ levelos.com
 smartlife.tuyaus.com
 a.tuyaus.com
 px1.tuyaus.com
+level.co
+levelhome.com
 
 #3d printer
 api.bambulab.com
