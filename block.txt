@@ -5,12 +5,12 @@ download.ezvizlife.com
 us-dev.ezvizlife.com
 us-auth.ezvizlife.com
 # regex to catch random subdomains for ezviz
-^(.*\.)?ezvizlife\.com$
-^(.*\.)?ezviz\.com$
-^(.*\.)?iusopen\.ezviz\.com$
-^(.*\.)?ezvizlife\.com$
-^(.*\.)?ezviz\.com$
-^(.*\.)?iusopen\.ezviz\.com$
+(^|\.)ezvizlife\.com$
+(^|\.)ezviz\.com$
+(^|\.)iusopen\.ezviz\.com$
+(^|\.)ezvizlife\.com$
+(^|\.)ezviz\.com$
+(^|\.)iusopen\.ezviz\.com$
 e16973.a.akamaiedge.net	
 cs9.wac.phicdn.net	
 47.178.168.192.in-addr.arpa	
@@ -222,3 +222,5 @@ gsp85-ssl.ls.apple.com
 gsp85-ssl.ls2-apple.com.akadns.net
 kv501.prod.do.dsp.mp.microsoft.com
 array510.prod.do.dsp.mp.microsoft.com
+sling.com
+(^|\.)sling\.com$
