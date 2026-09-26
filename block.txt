@@ -182,7 +182,6 @@ th.bing.com
 windows.msn.com   
 config.edge.skype.com   
 go.seriflabs.com   
-h3.apis.apple.map.fastly.net   
 bag-smoot.v.aaplimg.com   
 p57-keyvalueservice.icloud.com   
 tasks-pa.googleapis.com   
@@ -193,10 +192,8 @@ safebrowsing.googleapis.com
 www.msftconnecttest.com   
 e673.dsce9.akamaiedge.net   
 a1366.dscapi6.akamai.net   
-humb.v.aaplimg.com   
 v10.events.data.microsoft.com   
 teredo.ipv6.microsoft.com
-gsp85-ssl.ls2-apple.com.akadns.net
 kv501.prod.do.dsp.mp.microsoft.com
 array510.prod.do.dsp.mp.microsoft.com
 sling.com
